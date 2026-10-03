@@ -7,6 +7,7 @@ C:\Users\Makha\Desktop\Assignment 2 IFP\obj\Debug\net10.0\Assignment 2 IFP.Gener
 C:\Users\Makha\Desktop\Assignment 2 IFP\obj\Debug\net10.0\Assignment 2 IFP.AssemblyInfoInputs.cache
 C:\Users\Makha\Desktop\Assignment 2 IFP\obj\Debug\net10.0\Assignment 2 IFP.AssemblyInfo.cs
 C:\Users\Makha\Desktop\Assignment 2 IFP\obj\Debug\net10.0\Assignment 2 IFP.csproj.CoreCompileInputs.cache
+C:\Users\Makha\Desktop\Assignment 2 IFP\obj\Debug\net10.0\Assignment 2 IFP.sourcelink.json
 C:\Users\Makha\Desktop\Assignment 2 IFP\obj\Debug\net10.0\Assignment 2 IFP.dll
 C:\Users\Makha\Desktop\Assignment 2 IFP\obj\Debug\net10.0\refint\Assignment 2 IFP.dll
 C:\Users\Makha\Desktop\Assignment 2 IFP\obj\Debug\net10.0\Assignment 2 IFP.pdb
